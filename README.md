@@ -1,4 +1,4 @@
-# Talent-Acquisition-Intelligence-System
+# Talent Acquisition Intelligence System (ML)
 The Talent Acquisition Intelligence System employs machine learning methodologies to forecast job placements with precision and efficiency. Utilizing an extensive array of data points including academic perfrormance, professional experience, and specialized skills, the system meticulously analyzes historical employment data to discern intricate patterns and correlations. Through a rigorous selection process, the system identifies the most accurate machine learning models, ensuring optimal predictive capabilities. This culmination of data-driven insights and advanced algorithms culminates in a user-friendly HTML interface, seamlessly integrating sophisticated predictive analytics into the talent acquisition process.
 
 ## How to Run:
