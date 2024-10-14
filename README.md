@@ -5,8 +5,8 @@ The Talent Acquisition Intelligence System employs machine learning methodologie
 Run app.py file on Command Line or any IDE as usual.
 
 ### Dependencies:
-- 'models' folder, it has saved Decision Trees model
-- 'templetes' folder, it has HTML files
+- 'models' folder, it has saved Decision Trees model.
+- 'templetes' folder, it has HTML files.
 
 ### Other:
 I have also included the Jupyter Notebook along with Data used to train the model.
